@@ -1,28 +1,6 @@
 # Beginner Arcade
-* name: Beginner's Guide to Arcade Games
-* description: Learn to create arcade games of your own by completing these tutorials.
-* infoUrl: /skillmap/educator-info/basic-map-info
-
-
-
-## Learn to Use Tutorial
-* name: Learn to Use MakeCode Arcade
-* description: Start here if you want to know the ins and outs of Arcade tutorials!
-* completionUrl: /skillmap/certificates/understanding-arcade-tutorials.pdf
-
-### interface-activity1
-
-* name: Get to Know MakeCode Arcade
-* type: tutorial
-* description: Intro to the features and vocabulary used in Arcade tutorials.
-* tags: easy
-
-* url: /skillmap/interface/activity1 
-* imageUrl: /static/skillmap/interface/activity1.png
-
-
-
-
+* name: Build Shark Attack game
+* description: Learn to create a shark attack game of your own by completing these tutorials.
 
 ## Quick Example Games
 * name: Quick-Start Games
@@ -32,13 +10,13 @@
 
 ### story-activity1
 
-* name: Greeting Card
+* name: Build a character
 * type: tutorial
-* description: Make an amazing greeting card in minutes!
+* description: Build a character
 * tags: easy, story, card, creative
 * next: clicker-activity1
 
-* url: /skillmap/story/story1 
+* url: /recipes/shark-splash/01-character
 * imageUrl: /static/skillmap/story/story-activity1.png
 
 
